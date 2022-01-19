@@ -51,7 +51,7 @@ li a:hover {
   margin-left: 5px;
   margin-right: 150px;
   grid-column: 2/3;
-  justify-content: left;
+  float: left;
   grid-row: 1/2;
 }
 .div_head{
